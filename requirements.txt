@@ -1,0 +1,15 @@
+
+pandas
+numpy
+
+# Data cleaning
+beautifulsoup4
+
+# Data transformation
+scikit-learn
+
+# Data output
+openpyxl
+
+# General
+python-dateutil
