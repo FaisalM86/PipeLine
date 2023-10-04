@@ -10,14 +10,14 @@ The project has the following structure:
 .
 ├── README.md
 ├── requirements.txt
-├── data
-│   └── raw_data.csv
+├── data.csv
+│   
 ├── src
 │   ├── data_ingestion.py
 │   ├── data_cleaning.py
 │   ├── data_transformation.py
 │   ├── data_output.py
-│   └── main.py
+├── main.py
 └── .gitignore
 ```
 
